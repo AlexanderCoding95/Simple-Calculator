@@ -21,7 +21,7 @@ public class SimpleCalculator extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Super Calculator");
+        primaryStage.setTitle("Simple Calculator");
 
         GridPane grid = new GridPane();
         grid.setHgap(10);
